@@ -2,7 +2,7 @@
 
 I'm a self-taught student of front-end development.
 - 🤝 I'm a beginner, so if you think you can help me with some tips, advice, or just a chat, don't hold back!
-- 💻 Looking for practice experience creating and developing projects
+- 💻 Looking for practice experience, creating and developing projects
 - 📖 I'm currently studying HTML and CSS
 
 <p align="center">
