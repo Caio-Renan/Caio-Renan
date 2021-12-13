@@ -1,7 +1,7 @@
-### Hello! 👋🏼 I'm Caio Renan!
+### Hello! 👋 I'm Caio Renan!
 
 I'm a self-taught student of front-end development.
-- 🤝🏼 I'm a beginner, so if you think you can help me with some tips, advice, or just a chat, don't hold back!
+- 🤝 I'm a beginner, so if you think you can help me with some tips, advice, or just a chat, don't hold back!
 - 💻 Looking for practice experience creating and developing projects
 - 📖 I'm currently studying HTML and CSS
 
@@ -38,6 +38,6 @@ I'm a self-taught student of front-end development.
   <a href = "mailto:
 caiorenan016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/caio-santos-103b72178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-santos-103b72178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;
 </div>
