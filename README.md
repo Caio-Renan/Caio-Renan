@@ -6,14 +6,14 @@ I'm a self-taught student of front-end development.
 - 📖 I'm currently studying HTML and CSS
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats.vercel.app">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=Caio-Renan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats.vercel.app">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Renan&layout=compact&langs_count=7&theme=tokyonight"
