@@ -35,7 +35,7 @@ I'm a self-taught student of front-end development.
 ## My Contacts
   
 <div align="center"> 
-  <a href="https://www.instagram.com/caio_renan05/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/caio_renan08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;
   <a href = "mailto:
 caiorenan016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
