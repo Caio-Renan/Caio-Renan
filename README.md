@@ -28,6 +28,8 @@ I'm a self-taught student of front-end development.
   &nbsp;&nbsp;
   <img align="center" alt="Caio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;
+  <img align="center" alt="Caio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  &nbsp;&nbsp;
 </div>
 
 ## My Contacts
