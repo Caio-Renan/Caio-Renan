@@ -30,6 +30,8 @@ I'm a self-taught student of front-end and back-end development.
   &nbsp;&nbsp;
   <img align="center" alt="Caio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   &nbsp;&nbsp;
+  <img align="center" alt="Caio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  &nbsp;&nbsp;
 </div>
 
 ## My Contacts
