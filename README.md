@@ -1,9 +1,10 @@
 ### Hello! 👋 I'm Caio Renan!
 
-I'm a self-taught student of front-end and back-end development.
-- 🤝 I'm a beginner, so if you think you can help me with some tips, advice, or just a chat, don't hold back!
+I'm a student of front-end and back-end development.
+- 🎓 Computer Science student
+- 🤝 I'm always looking for learning, so if you think you can help me with some tips, advice, or just a chat, don't hold back!
 - 💻 Looking for practice experience, creating and developing projects
-- 📖 I'm currently studying HTML, CSS and C#
+- 📖 I'm currently studying JavaScript and Node.js
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats.vercel.app">
@@ -30,15 +31,18 @@ I'm a self-taught student of front-end and back-end development.
   &nbsp;&nbsp;
   <img align="center" alt="Caio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   &nbsp;&nbsp;
-  <img align="center" alt="Caio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Caio-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   &nbsp;&nbsp;
+  <img align="center" alt="Caio-JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  &nbsp;&nbsp;
+  <img align="center" alt="Caio-NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  &nbsp;&nbsp;
+  <img align="center" alt="Caio-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ## My Contacts
   
 <div align="center"> 
-  <a href="https://www.instagram.com/caio_renan08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  &nbsp;&nbsp;
   <a href = "mailto:
 caiorenan016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;
