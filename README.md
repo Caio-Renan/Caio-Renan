@@ -1,11 +1,12 @@
 ### Hello! 👋 I'm Caio Renan!
 
-I'm a student of front-end and back-end development.
-- 🎓 Computer Science student
-- 🤝 I'm always looking for learning, so if you think you can help me with some tips, advice, or just a chat, don't hold back!
-- 💻 Looking for practice experience, creating and developing projects
-- 📖 I'm currently studying JavaScript and Node.js
-
+I'm a back-end developer and a 6th-semester Computer Science student at Universidade Salvador.
+- 🚀 I develop RESTful APIs using Node.js, TypeScript, and NestJS.
+- ☁️ Experienced integrating AWS services like Lambda, S3, SES, and DynamoDB.
+- 📚 Passionate about continuous learning! Always open to tips, advice, or tech chats.
+- 💻 Currently building projects with modern back-end technologies and improving my skills in software architecture and cloud computing.
+- 🤝 Looking for opportunities to grow, collaborate, and contribute to impactful projects.
+<br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats.vercel.app">
     <img
@@ -25,20 +26,20 @@ I'm a student of front-end and back-end development.
 ## My Skills  
 
 <div align="center">
-  <img align="center" alt="Caio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Caio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Caio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Caio-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Caio-JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Caio-NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="Caio-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="NestJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Sequelize" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Swagger" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">&nbsp;&nbsp;
 </div>
+
 
 ## My Contacts
   
@@ -46,6 +47,6 @@ I'm a student of front-end and back-end development.
   <a href = "mailto:
 caiorenan016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/caio-santos-103b72178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caiorsantos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;
 </div>
